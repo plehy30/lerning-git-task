@@ -17,6 +17,8 @@ for values in moje_zakupy["piekarnia"]:
     values=values.title()
     piekarnia.append(values)
 print("Wchodzę do warzywniaka i kupuję: ",warzywniak)
+print("Wchodzę do piekarni i kupuję: ",warzywniak)
+
 
 
 
