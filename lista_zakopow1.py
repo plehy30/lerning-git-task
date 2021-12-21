@@ -29,3 +29,5 @@ print(podzielne_5)
 # kwadrat_prosciej = [number * number for number in liczby if number > 10]
 potegi_3 = [liczba ** 3 for liczba in podzielne_5]
 print(potegi_3)
+
+#Pozdrowienia dla MENTORA
