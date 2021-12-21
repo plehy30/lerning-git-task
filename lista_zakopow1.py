@@ -20,8 +20,6 @@ print("Wchodzę do warzywniaka i kupuję: ",warzywniak)
 print("Wchodzę do piekarni i kupuję: ",warzywniak)
 
 
-
-
 # Zadanie 2
 podzielne_5 = []
 for i in range(0, 100):
@@ -31,4 +29,3 @@ print(podzielne_5)
 # kwadrat_prosciej = [number * number for number in liczby if number > 10]
 potegi_3 = [liczba ** 3 for liczba in podzielne_5]
 print(potegi_3)
-print
