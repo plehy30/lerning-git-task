@@ -1,7 +1,7 @@
 # Zadanie 1
 moje_zakupy = {"piekarnia": ["chleb", "bułki", "pączek"],
                "warzywniak": ["marchew", "pomidory", "seler"]}
-
+print(str(moje_zakupy["piekarnia"]).title())
 ilosc = (len(moje_zakupy.get("piekarnia")) + len(moje_zakupy.get("warzywniak")))
 print("Wchdzę do warzywniaka i kupuję: ", moje_zakupy["warzywniak"], "\na potem wchodzę do piekarni i kupuję: ",
       moje_zakupy["piekarnia"],
